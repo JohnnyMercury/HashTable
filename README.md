@@ -24,6 +24,9 @@ Collisions are resolved using **chaining**. Each index in the hash table contain
 - Linked lists are used to manage collisions at the same index.
 
 ### **Screenshots**
-- **Hash Table Before Deletion**: *![img.png](img.png)*
+- **Hash Table Before Deletion**:
+- <img width="228" alt="image" src="https://github.com/user-attachments/assets/958e08b8-5223-4bf7-8054-d208d20b4017" />
+
 - **Hash Table After Deletion**: 
-- *![img_1.png](img_1.png)*
+<img width="215" alt="image" src="https://github.com/user-attachments/assets/7aef7c2b-6794-4d3f-86a7-9c2617ba6a01" />
+
